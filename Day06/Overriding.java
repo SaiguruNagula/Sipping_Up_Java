@@ -5,8 +5,6 @@ public class Overriding {
         public void sound() {
             System.out.println("Animal makes a sound");
         }
-            System.out.println("Animal makes a sound");
-        }
     }
 
     static class Dog extends Animal {
